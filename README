@@ -1,0 +1,40 @@
+Data Structures and Algorithms Lab (C)
+Overview
+
+This repository contains my implementations of Data Structures and Algorithms using the C programming language as part of my lab work. It focuses on building a strong understanding of core concepts and improving problem-solving skills.
+
+Contents
+
+The repository includes programs based on the following topics:
+
+Basics of C programming
+Arrays and Strings
+Searching algorithms (Linear Search, Binary Search)
+Sorting algorithms (Bubble Sort, Selection Sort, Insertion Sort, etc.)
+Recursion
+Linked Lists
+Stacks and Queues
+Trees and basic Graph concepts
+Language Used
+C
+How to Run
+Clone the repository:
+git clone
+Navigate to the folder:
+cd
+
+Compile and run any program:
+
+gcc filename.c
+./a.out
+
+Purpose
+Understand fundamental DSA concepts
+Practice coding in C
+Prepare for technical interviews
+Improve logical thinking
+Future Improvements
+Add comments and explanations for each program
+Include time and space complexity
+Organize programs topic-wise in folders
+Add more advanced DSA problems
